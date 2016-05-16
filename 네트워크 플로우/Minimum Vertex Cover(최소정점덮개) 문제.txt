@@ -1,0 +1,4 @@
+돌멩이 제거: https://www.acmicpc.net/problem/1867
+게시판 구멍 막기: https://www.acmicpc.net/problem/2414
+N-Rook: https://www.acmicpc.net/problem/1760
+비숍 2: https://www.acmicpc.net/problem/2570

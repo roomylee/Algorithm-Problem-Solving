@@ -1,0 +1,18 @@
+RMQ: 구간의 최소값, 구간의 합
+
+Segment Tree
+Binary Indexed Tree (Fenwick Tree)
+2D-BIT
+Segment Tree Lazy Propagation
+
+구간 합 구하기: https://www.acmicpc.net/problem/2042
+구간 합 구하기 2: https://www.acmicpc.net/problem/10999
+구간 합 구하기 3: https://www.acmicpc.net/problem/11658
+최소값과 최대값: https://www.acmicpc.net/problem/2357
+북서풍: https://www.acmicpc.net/problem/5419
+전깃줄-2: https://www.acmicpc.net/problem/2568
+사탕상자: https://www.acmicpc.net/problem/2243
+공장: https://www.acmicpc.net/problem/7578
+순열: https://www.acmicpc.net/problem/1849
+굉장한 학생: https://www.acmicpc.net/problem/2336
+영화 수집: https://www.acmicpc.net/problem/3653

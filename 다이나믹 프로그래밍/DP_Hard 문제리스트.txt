@@ -1,0 +1,13 @@
+1/4: 다이나믹 프로그래밍
+
+어려운 다이나믹을 배워봅니다.
+
+격자판 채우기: https://www.acmicpc.net/problem/1648
+연습 시즌: https://www.acmicpc.net/problem/9023
+트리의 독립집합: https://www.acmicpc.net/problem/2213
+팰린드롬 경로: https://www.acmicpc.net/problem/2172
+Sequence: https://www.acmicpc.net/problem/2291
+택배: https://www.acmicpc.net/problem/1866
+가로등 끄기: https://www.acmicpc.net/problem/2315
+사수아탕: https://www.acmicpc.net/problem/2419
+팰린드롬: https://www.acmicpc.net/problem/1243

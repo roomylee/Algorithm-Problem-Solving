@@ -1,0 +1,3 @@
+떡국: https://www.acmicpc.net/problem/1127
+학교 가지마!: https://www.acmicpc.net/problem/1420
+No Smoking, Please: https://www.acmicpc.net/problem/5406

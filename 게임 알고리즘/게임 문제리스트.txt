@@ -1,0 +1,17 @@
+돌 게임: https://www.acmicpc.net/problem/9655
+돌 게임 2: https://www.acmicpc.net/problem/9656
+돌 게임 3: https://www.acmicpc.net/problem/9657
+돌 게임 4: https://www.acmicpc.net/problem/9658
+돌 게임 5: https://www.acmicpc.net/problem/9659
+돌 게임 6: https://www.acmicpc.net/problem/9660
+돌 게임 7: https://www.acmicpc.net/problem/9661
+돌 게임 8: https://www.acmicpc.net/problem/9662
+님 게임: https://www.acmicpc.net/problem/11694
+표 게임: https://www.acmicpc.net/problem/11695
+작은 직사각형: https://www.acmicpc.net/problem/1603
+John: https://www.acmicpc.net/problem/3754
+금화 게임: https://www.acmicpc.net/problem/5386
+A Coin Game: https://www.acmicpc.net/problem/6000
+Nim: https://www.acmicpc.net/problem/9157
+Number Game: https://www.acmicpc.net/problem/10563
+수학 게임: https://www.acmicpc.net/problem/2862

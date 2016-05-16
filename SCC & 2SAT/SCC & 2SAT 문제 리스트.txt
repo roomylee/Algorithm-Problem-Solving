@@ -1,0 +1,19 @@
+1/6 강한 연결 요소(SCC), 단절점(Articulation Point), 단절선(Bridge), 2-SAT
+
+
+강한 연결 요소(SCC), 단절점(Articulation Point), 단절선(Bridge)
+
+Strongly Connected Component: https://www.acmicpc.net/problem/2150
+단절점: https://www.acmicpc.net/problem/11266
+단절선: https://www.acmicpc.net/problem/11400
+동치 증명: https://www.acmicpc.net/problem/3682
+Urban planning: https://www.acmicpc.net/problem/11097
+ATM: https://www.acmicpc.net/problem/4013
+교통 체계: https://www.acmicpc.net/problem/1734
+
+
+2-SAT
+
+가위바위보: https://www.acmicpc.net/problem/2207
+Perfect Election: https://www.acmicpc.net/problem/3747
+TORNJEVI: https://www.acmicpc.net/problem/3153

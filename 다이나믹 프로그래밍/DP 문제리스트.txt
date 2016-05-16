@@ -1,0 +1,67 @@
+https://www.acmicpc.net/problem/1003
+https://www.acmicpc.net/problem/1149
+https://www.acmicpc.net/problem/1912
+https://www.acmicpc.net/problem/1937
+https://www.acmicpc.net/problem/5582
+https://www.acmicpc.net/problem/1793
+https://www.acmicpc.net/problem/2098
+https://www.acmicpc.net/problem/2666
+https://www.acmicpc.net/problem/1254
+https://www.acmicpc.net/problem/11060
+https://www.acmicpc.net/problem/2616
+https://www.acmicpc.net/problem/2533
+https://www.acmicpc.net/problem/1328
+https://www.acmicpc.net/problem/2169
+https://www.acmicpc.net/problem/5557
+https://www.acmicpc.net/problem/2281
+https://www.acmicpc.net/problem/1146
+https://www.acmicpc.net/problem/1344
+https://www.acmicpc.net/problem/1648
+https://www.acmicpc.net/problem/1727
+https://www.acmicpc.net/problem/1234
+https://www.acmicpc.net/problem/2300
+https://www.acmicpc.net/problem/1023
+https://www.acmicpc.net/problem/2315
+https://www.acmicpc.net/problem/1514
+https://www.acmicpc.net/problem/2854
+https://www.acmicpc.net/problem/1086
+https://www.acmicpc.net/problem/2518
+https://www.acmicpc.net/problem/2248
+https://www.acmicpc.net/problem/1413
+https://www.acmicpc.net/problem/1949
+https://www.acmicpc.net/problem/1256
+https://www.acmicpc.net/problem/2184
+https://www.acmicpc.net/problem/1301
+https://www.acmicpc.net/problem/1416
+https://www.acmicpc.net/problem/1128
+https://www.acmicpc.net/problem/2287
+https://www.acmicpc.net/problem/4800
+https://www.acmicpc.net/problem/6989
+https://www.acmicpc.net/problem/10954
+https://www.acmicpc.net/problem/2192
+https://www.acmicpc.net/problem/1282
+https://www.acmicpc.net/problem/1638
+https://www.acmicpc.net/problem/1754
+https://www.acmicpc.net/problem/2939
+https://www.acmicpc.net/problem/9368
+https://www.acmicpc.net/problem/1530
+https://www.acmicpc.net/problem/1410
+https://www.acmicpc.net/problem/2978
+https://www.acmicpc.net/problem/2952
+https://www.acmicpc.net/problem/1249
+https://www.acmicpc.net/problem/1776
+https://www.acmicpc.net/problem/1808
+https://www.acmicpc.net/problem/7618
+
+<기본문제>
+1. 연속 부분 최대 곱 http://www.acmicpc.net/problem/2670
+2. 삼각 그래프 http://www.acmicpc.net/problem/4883
+3. 기업 투자 http://www.acmicpc.net/problem/2662
+4. 색 상환 https://www.acmicpc.net/problem/2482
+5. 막대 배치 http://www.acmicpc.net/problem/8895
+<심화 문제>
+6. 스위치 배열 http://www.acmicpc.net/problem/10258
+7. 경찰차 문제 https://www.acmicpc.net/problem/2618
+8. 우체국 http://www.acmicpc.net/problem/2141
+9. 초고속 철도 http://www.acmicpc.net/problem/2543
+10. 숫자 뽑기 게임 http://www.acmicpc.net/problem/10468

@@ -1,0 +1,19 @@
+열혈강호: https://www.acmicpc.net/problem/11375
+열혈강호 2: https://www.acmicpc.net/problem/11376
+열혈강호 3: https://www.acmicpc.net/problem/11377
+열혈강호 4: https://www.acmicpc.net/problem/11378
+축사 배정: https://www.acmicpc.net/problem/2188
+노트북의 주인을 찾아서: https://www.acmicpc.net/problem/1298
+소수 쌍: https://www.acmicpc.net/problem/1017
+상어의 저녁식사 https://www.acmicpc.net/problem/1671
+흔한 수열 문제: https://www.acmicpc.net/proble/2787
+스타 대결: https://www.acmicpc.net/problem/1031
+고양이와 개: https://www.acmicpc.net/problem/3683
+이분 매칭: https://www.acmicpc.net/problem/1587
+조 나누기: https://www.acmicpc.net/problem/9496
+노트북의 주인을 찾아서: https://www.acmicpc.net/problem/1298
+
+
+이분 탐색 + 이분 매칭
+주차장: https://www.acmicpc.net/problem/1348
+토렌트: https://www.acmicpc.net/problem/9577

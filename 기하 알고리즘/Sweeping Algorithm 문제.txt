@@ -1,0 +1,21 @@
+Sweeping Algorithm:
+
+가장 가까운 두 점: https://www.acmicpc.net/problem/2261
+City Park: https://www.acmicpc.net/problem/10534
+DOSTAVA: https://www.acmicpc.net/problem/10862
+허후민: https://www.acmicpc.net/problem/1617
+과수원: https://www.acmicpc.net/problem/1831
+선 긋기: https://www.acmicpc.net/problem/2170
+직사각형의 합집합: https://www.acmicpc.net/problem/2185
+시장 선거 포스터: https://www.acmicpc.net/problem/2370
+보이는 정사각형: https://www.acmicpc.net/problem/2397
+아스키 거리: https://www.acmicpc.net/problem/2809
+수상 택시: https://www.acmicpc.net/problem/2836
+고속도로 구매: https://www.acmicpc.net/problem/3083
+울타리: https://www.acmicpc.net/problem/3119
+November Rain: https://www.acmicpc.net/problem/3455
+Mummy Madness: https://www.acmicpc.net/problem/4223
+Skyscrapers: https://www.acmicpc.net/problem/7882
+핀볼: https://www.acmicpc.net/problem/9244
+위성 사진: https://www.acmicpc.net/problem/9318
+원 영역: https://www.acmicpc.net/problem/10000
