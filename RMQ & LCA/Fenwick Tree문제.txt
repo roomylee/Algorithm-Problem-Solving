@@ -1,0 +1,9 @@
+Fenwick Tree
+
+https://www.acmicpc.net/problem/3392
+https://www.acmicpc.net/problem/2669
+https://www.acmicpc.net/problem/2934
+https://www.acmicpc.net/problem/2261
+https://www.acmicpc.net/problem/3103
+https://www.acmicpc.net/problem/2672
+https://www.acmicpc.net/problem/7626

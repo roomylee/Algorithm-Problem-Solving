@@ -16,3 +16,42 @@ Segment Tree Lazy Propagation
 순열: https://www.acmicpc.net/problem/1849
 굉장한 학생: https://www.acmicpc.net/problem/2336
 영화 수집: https://www.acmicpc.net/problem/3653
+
+- A Simple Problem with Integers
+http://poj.org/problem?id=3468
+- Count Color 
+http://poj.org/problem?id=2777
+- Haybale Guessing
+http://poj.org/problem?id=3657
+- SuperMemo
+http://poj.org/problem?id=3580
+- DVDs
+http://www.acmicpc.net/problem/9345
+- 전함
+http://www.acmicpc.net/problem/5480
+- Balanced Lineup 
+http://poj.org/problem?id=3264
+- Potted Flower 
+http://poj.org/problem?id=2750
+- Maximum Sum
+http://poj.org/problem?id=2479
+- Starts
+http://poj.org/problem?id=2352
+- Japan 
+http://poj.org/problem?id=3067
+
+https://www.acmicpc.net/problem/2465
+https://www.acmicpc.net/problem/5419
+https://www.acmicpc.net/problem/3653
+https://www.acmicpc.net/problem/1321
+https://www.acmicpc.net/problem/6549
+https://www.acmicpc.net/problem/5480
+https://www.acmicpc.net/problem/10167
+https://www.acmicpc.net/problem/1168
+
+**Lazy Propagation, Plane Swipping
+https://www.acmicpc.net/problem/7578
+https://www.acmicpc.net/problem/2568
+https://www.acmicpc.net/problem/10999
+https://www.acmicpc.net/problem/9463
+https://www.acmicpc.net/problem/3392

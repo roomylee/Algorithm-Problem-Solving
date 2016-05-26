@@ -7,3 +7,14 @@ Chess competition: https://www.acmicpc.net/problem/5424
 숫자판 만들기: https://www.acmicpc.net/problem/2365
 들쥐의 탈출: https://www.acmicpc.net/problem/2191
 단방향 링크 네트워크: https://www.acmicpc.net/problem/3295
+
+
+https://www.acmicpc.net/problem/1587
+https://www.acmicpc.net/problem/9496
+https://www.acmicpc.net/problem/3683
+https://www.acmicpc.net/problem/1799
+https://www.acmicpc.net/problem/11375
+https://www.acmicpc.net/problem/2188
+https://www.acmicpc.net/problem/1671
+https://www.acmicpc.net/problem/1867
+https://www.acmicpc.net/problem/1031
