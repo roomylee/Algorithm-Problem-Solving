@@ -1,0 +1,52 @@
+냅색
+https://www.acmicpc.net/problem/2293
+https://www.acmicpc.net/problem/2294
+https://www.acmicpc.net/problem/2624
+https://www.acmicpc.net/problem/9084
+https://www.acmicpc.net/problem/2294
+
+게임 DP
+https://algospot.com/judge/problem/read/NUMBERGAME
+https://www.acmicpc.net/problem/11062
+
+중간에 잘라서 하는거
+https://www.acmicpc.net/problem/11066
+https://www.acmicpc.net/problem/11049
+
+트리 DP (시간복잡도 계산에 주의)
+https://www.acmicpc.net/problem/2213
+https://www.acmicpc.net/problem/2533
+http://codeforces.com/problemset/problem/581/F
+https://www.acmicpc.net/problem/2584
+https://www.acmicpc.net/problem/9013
+https://www.acmicpc.net/problem/11503
+https://www.acmicpc.net/problem/2197
+https://www.acmicpc.net/problem/1805
+http://www.spoj.com/problems/VOCV/
+http://www.spoj.com/problems/PT07F/
+http://www.spoj.com/problems/PT07X/
+
+LIS
+https://www.acmicpc.net/problem/1666
+https://www.acmicpc.net/problem/2568
+https://www.acmicpc.net/problem/2565
+
+비트마스크
+https://www.acmicpc.net/problem/2098
+https://www.acmicpc.net/problem/1029
+https://www.acmicpc.net/problem/1102
+
+와리가리
+https://www.acmicpc.net/problem/2184
+https://www.acmicpc.net/problem/2315
+https://www.acmicpc.net/problem/2419
+https://www.acmicpc.net/problem/4243
+
+weighted interval scheduling
+https://www.acmicpc.net/problem/11108
+https://www.acmicpc.net/problem/1666
+
+조합
+http://community.topcoder.com/stat?c=problem_statement&pm=7261&rd=10011
+
+https://www.acmicpc.net/problem/2698
